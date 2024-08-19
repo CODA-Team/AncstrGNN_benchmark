@@ -33,9 +33,9 @@ The ``s3det`` refers to the system-level symmetry constraint extraction method S
 
 The ``pku`` refers to the circuits annotated by Peking University team lead by Prof. Yibo Lin and his PhD student Xiaohan Gao.
 
->[Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks](https://doi.org/10.1145/3394885.3431545) 
->     * Xiaohan Gao, Chenhui Deng, Mingjie Liu, Zhiru Zhang, David Z. Pan and Yibo Lin 
->     * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 18-21, 2021.
+>[Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks](https://doi.org/10.1145/3394885.3431545）
+>   * Xiaohan Gao, Chenhui Deng, Mingjie Liu, Zhiru Zhang, David Z. Pan and Yibo Lin 
+>   * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 18-21, 2021.
 
 ## Use
 
