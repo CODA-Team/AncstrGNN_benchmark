@@ -1,0 +1,39 @@
+
+
+
+.topckt COMPARATOR_PRE_AMP clk crossn crossp gnd intern interp outm outp vdd _net0 _net1
+
+xm0 gnd intern gnd gnd nch_lvt_mac l=1e-6 w=1.05e-6 multi=1 nf=1 
+
+xm22 gnd interp gnd gnd nch_lvt_mac l=1e-6 w=1.05e-6 multi=1 nf=1 
+
+xm16 outm crossp gnd gnd nch_lvt_mac l=40e-9 w=1.44e-6 multi=1 nf=12 
+
+xm17 outp crossn gnd gnd nch_lvt_mac l=40e-9 w=1.44e-6 multi=1 nf=12 
+
+xm4 crossn crossp intern gnd nch_lvt_mac l=40e-9 w=1.92e-6 multi=1 nf=16 
+
+xm3 crossp crossn interp gnd nch_lvt_mac l=40e-9 w=1.92e-6 multi=1 nf=16 
+
+xm7 net050 clk gnd gnd nch_lvt_mac l=40e-9 w=8.64e-6 multi=1 nf=72 
+
+xm5 intern _net0 net050 gnd nch_lvt_mac l=40e-9 w=9.6e-6 multi=1 nf=10 
+
+xm6 interp _net1 net050 gnd nch_lvt_mac l=40e-9 w=9.6e-6 multi=1 nf=10 
+
+xm8 outm crossp vdd vdd pch_lvt_mac l=40e-9 w=2.88e-6 multi=1 nf=6 
+
+xm18 intern clk vdd vdd pch_lvt_mac l=40e-9 w=1.92e-6 multi=1 nf=1 
+
+xm15 outp crossn vdd vdd pch_lvt_mac l=40e-9 w=2.88e-6 multi=1 nf=6 
+
+xm19 interp clk vdd vdd pch_lvt_mac l=40e-9 w=1.92e-6 multi=1 nf=1 
+
+xm10 crossn clk vdd vdd pch_lvt_mac l=40e-9 w=1.92e-6 multi=1 nf=1 
+
+xm12 crossp clk vdd vdd pch_lvt_mac l=40e-9 w=1.92e-6 multi=1 nf=1 
+
+xm14 crossn crossp vdd vdd pch_lvt_mac l=40e-9 w=3.84e-6 multi=1 nf=32 
+
+xm13 crossp crossn vdd vdd pch_lvt_mac l=40e-9 w=3.84e-6 multi=1 nf=32 
+.ends COMPARATOR_PRE_AMP

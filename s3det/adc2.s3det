@@ -1,0 +1,35 @@
+adc2/digital0/xi128
+xi0 xi1 
+
+adc2/dac3b
+xi97 xi94 
+
+adc2/dac3a
+xi97 xi94 
+
+adc2/cap2_res2
+xr51 xr25 
+
+adc2
+dac1b dac1a 
+dac1b dac3a 
+dac1b dac3b 
+input_resm input_resp 
+dac3a dac1a 
+dac3b dac1a 
+dac3a dac3b 
+
+adc2/dac1a
+xi86 xi88 
+
+adc2/dac1b
+xi86 xi88 
+
+adc2/cap1
+xc1_3_ xc1_2_ 
+xc1_3_ xc1_1_ 
+xc1_3_ xc1_0_ 
+xc1_2_ xc1_1_ 
+xc1_2_ xc1_0_ 
+xc1_1_ xc1_0_ 
+

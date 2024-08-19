@@ -1,0 +1,26 @@
+.topckt Retiming_Latch_common clkb d do dob vdd_d vss_d
+xm39 net025 net017 vdd_d vdd_d pch_lvt w=480e-9 l=40e-9 
+xm31 clk clkb vdd_d vdd_d pch_lvt w=480e-9 l=40e-9 
+xm33 vdd_d vss_d vdd_d vdd_d pch_lvt w=480e-9 l=40e-9 
+xm16 do dob vdd_d vdd_d pch_lvt w=320e-9 l=40e-9 
+xm26 clkn clk vdd_d vdd_d pch_lvt w=480e-9 l=40e-9 
+xm12 dob do vdd_d vdd_d pch_lvt w=320e-9 l=40e-9 
+xm1 do clkn net36 vdd_d pch_lvt w=640e-9 l=40e-9 
+xm0 net36 net025 vdd_d vdd_d pch_lvt w=640e-9 l=40e-9 
+xm11 dob clkn net39 vdd_d pch_lvt w=640e-9 l=40e-9 
+xm10 net39 net017 vdd_d vdd_d pch_lvt w=640e-9 l=40e-9 
+xm37 net017 d vdd_d vdd_d pch_lvt w=480e-9 l=40e-9 
+xm35 vdd_d vss_d vdd_d vdd_d pch_lvt w=480e-9 l=40e-9 
+xm38 net025 net017 vss_d vss_d nch_lvt w=320e-9 l=40e-9 
+xm30 clk clkb vss_d vss_d nch_lvt w=240e-9 l=40e-9 
+xm17 do clk net37 vss_d nch_lvt w=320e-9 l=40e-9 
+xm32 vdd_d vss_d vdd_d vss_d nch_lvt w=320e-9 l=40e-9 
+xm27 clkn clk vss_d vss_d nch_lvt w=240e-9 l=40e-9 
+xm13 dob clk net38 vss_d nch_lvt w=320e-9 l=40e-9
+xm36 net017 d vss_d vss_d nch_lvt w=320e-9 l=40e-9 
+xm21 dob do vss_d vss_d nch_lvt w=160e-9 l=40e-9 
+xm20 do dob vss_d vss_d nch_lvt w=160e-9 l=40e-9 
+xm19 net38 net017 vss_d vss_d nch_lvt w=320e-9 l=40e-9 
+xm34 vdd_d vss_d vdd_d vss_d nch_lvt w=320e-9 l=40e-9 
+xm18 net37 net025 vss_d vss_d nch_lvt w=320e-9 l=40e-9 
+.ends Retiming_Latch_common
