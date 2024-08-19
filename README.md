@@ -6,9 +6,9 @@ This is the open released benchmark suites for analog IC symmetry constraint ext
 
 AncstrGNN is proposed by Dr. Hao Chen (now with Google Deepmind) and Prof. David Z. Pan at The University of Texas at Austin. The work was published at DAC'21.
 
-[Universal Symmetry Constraint Extraction for Analog and Mixed-Signal Circuits with Graph Neural Networks](https://ieeexplore.ieee.org/document/9586211) 
-   * Hao Chen, Keren Zhu, Mingjie Liu, Xiyuan Tang, Nan Sun, and David Z. Pan
-   * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, December 5-9, 2021.
+>[Universal Symmetry Constraint Extraction for Analog and Mixed-Signal Circuits with Graph Neural Networks](https://ieeexplore.ieee.org/document/9586211) 
+>   * Hao Chen, Keren Zhu, Mingjie Liu, Xiyuan Tang, Nan Sun, and David Z. Pan
+>   * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, December 5-9, 2021.
 
 The benchmark suite include several sources of circuits from other publications.
 
@@ -33,7 +33,7 @@ The ``s3det`` refers to the system-level symmetry constraint extraction method S
 
 The ``pku`` refers to the circuits annotated by Peking University team lead by Prof. Yibo Lin and his PhD student Xiaohan Gao.
 
->[Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks](https://doi.org/10.1145/3394885.3431545）
+>[Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks](https://doi.org/10.1145/3394885.3431545)
 >   * Xiaohan Gao, Chenhui Deng, Mingjie Liu, Zhiru Zhang, David Z. Pan and Yibo Lin 
 >   * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 18-21, 2021.
 
