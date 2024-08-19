@@ -2,7 +2,7 @@
 
 ## About
 
-This is the open released benchmark suites for analog IC symmetry constraint extraction method [AncstrGNN](https://github.com/baloneymath/AncstrGNN).
+This is the sanitized benchmark suites for analog IC symmetry constraint extraction method [AncstrGNN](https://github.com/baloneymath/AncstrGNN).
 
 AncstrGNN is proposed by Dr. Hao Chen (now with Google Deepmind) and Prof. David Z. Pan at The University of Texas at Austin. The work was published at DAC'21.
 
